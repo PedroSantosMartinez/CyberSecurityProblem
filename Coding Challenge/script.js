@@ -1,3 +1,4 @@
+// Coding Challenge #1
 // Define an array of objects called jobData to store job roles categorized by experience level. 
 // Each object represents a role and includes the job title, required experience levels, and the number of open positions.
 const jobData = [
